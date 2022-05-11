@@ -1,0 +1,2 @@
+[flake8]
+exclude = ui_main.py
