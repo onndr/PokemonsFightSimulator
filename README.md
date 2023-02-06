@@ -1,2 +1,4 @@
 # PokemonsFightSimulator
-Python project 1 semestr in WUT
+1 semester project at WUT
+
+Written with PyQT
